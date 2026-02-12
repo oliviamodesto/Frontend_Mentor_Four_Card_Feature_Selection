@@ -4,9 +4,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Live Site URL: [The live site for the first version](https://oliviamodesto.github.io/Frontend_Mentor_Four_Card_Feature_Selection/)
-
-## My process
+- Live Site URL: [The live site for the second version](https://oliviamodesto.github.io/Frontend_Mentor_Four_Card_Feature_Selection/)
 
 ### Built with
 
@@ -16,4 +14,11 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### What I learned
 
-This challenge allowed me to apply CSS concepts I was already familiar with.
+The following changes have been implemented:
+
+- fixed background color
+- id selectors replaced with class selectors
+
+# Acknowledgments
+
+Big thanks to Frontend Mentor user Angel Cayatopa for the insightful feedback.
